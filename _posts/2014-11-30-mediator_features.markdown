@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mediator Features"
-date:   2014-11-30 14:34:25
+title:  "OT 후기"
+date:   2024-07-17 14:34:25
 categories: mediator feature
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
