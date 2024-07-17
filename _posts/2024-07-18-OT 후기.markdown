@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OT 후기"
-date:   2024-07-18-00:18
+date:   2024-07-18 00:18:00
 categories: jekyll update
 tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
